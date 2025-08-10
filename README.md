@@ -61,8 +61,8 @@ We we have a Cortex M4.
 pyocd> read32 0xE0042000
 e0042000:  70050346
 
-Device ID = bits [11:0] of lower half (0x0346 & 0xFFF) = 0x346
-Revision ID = bits [15:12] of lower half ((0x0346 >> 12) & 0xF) = 0x0 (revision 0)
+Device ID = bits [11:0] = 0x346
+Revision ID = bits [15:12] = 0x0 (revision 0)
 ```
 
 0x346 smells like a GD GD32F3x0x.
