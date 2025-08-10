@@ -90,7 +90,7 @@ The SPI between the microcontroller and radar IC runs at 15MHz.
 
 The Radar sends an IRQ to the microcontroller which then starts the readout process.
 
-No decoding for as this speed maxes out my Cypress FX2 logic analyzer  :-(
+No decoding now for as this speed maxes out my Cypress FX2 logic analyzer  :-(
 
 ## Firmware
 
