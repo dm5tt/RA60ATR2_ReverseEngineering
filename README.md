@@ -1,5 +1,5 @@
 
-# Reverse Engineering the MicRadar RA60ATR2 60GHz FMCW radar
+# Reverse Engineering the MicRadar RA60ATR2 60GHz FMCW Radar
 
 ## Hardware
 
